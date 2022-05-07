@@ -1,1 +1,1 @@
-This is the payment terms page!
+**This is the payment terms page!**
